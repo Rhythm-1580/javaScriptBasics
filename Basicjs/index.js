@@ -1,5 +1,12 @@
-console.log("hello world");
+//hello  world
+//console.log("hello world");
 
+
+      // = assignment operators
+      // + Add operator
+      // - Subtarct operator
+      // * Mutilpy operator
+      // ** Power operator
 
         // syntax of function
 
@@ -11,7 +18,7 @@ console.log("hello world");
 // }
 // console.log(sample());
 
-        //syntax of objects
+//         syntax of objects
 
 // var car={
 //   name: "Rhythm",
@@ -21,6 +28,6 @@ console.log("hello world");
 // }
 // console.log(car);
 //
-      //if u wonna to print only name
+//       if u wonna to print only name
 // console.log(car.name);
 //
